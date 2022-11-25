@@ -64,5 +64,20 @@
 
 Далее окно с найденными результатами:
 
+![Один сотрудник](https://github.com/EvgenyBusleiko/Base-for-GB/blob/main/all_record_window.jpg)
+
+Выбрав конкретного сотрудника можно просмотреть информацию о нем и выбрать варианты действий:
+
 ![Один сотрудник](https://github.com/EvgenyBusleiko/Base-for-GB/blob/main/one_record_window.jpg)
+
+Если выбрать "Удалить", программа запросит подтверждение действия
+
+![Один сотрудник](https://github.com/EvgenyBusleiko/Base-for-GB/blob/main/approvement.jpg)
+
+После этого будет показано служебное сообщение, запись будет удалена из базы и программа вернется к списку найденных сотрудников:
+
+![Один сотрудник](https://github.com/EvgenyBusleiko/Base-for-GB/blob/main/service_window.jpg)
+
+Спасибо за внимание!
+
 
