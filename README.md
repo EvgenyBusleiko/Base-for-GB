@@ -61,3 +61,8 @@
 Появляется окно, куда можно ввести часть имени или фамилии
 
 ![Профессия](https://github.com/EvgenyBusleiko/Base-for-GB/blob/main/search_window.jpg)
+
+Далее окно с найденными результатами:
+
+![Один сотрудник](https://github.com/EvgenyBusleiko/Base-for-GB/blob/main/one_record_window.jpg)
+
